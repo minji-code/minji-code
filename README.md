@@ -18,5 +18,4 @@ const minji = {
 
     
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fminji-k-suh%2F)
-![Static Badge](https://img.shields.io/badge/see_my-portfolio-sage?style=flat&link=https%3A%2F%2Fgithub.com%2Fminji-code%2FHelloMinji)
-
+![Static Badge](https://img.shields.io/badge/see_by-portfolio-sage?style=flat&link=https%3A%2F%2Fminji-code.github.io%2FHelloMinji%2F)

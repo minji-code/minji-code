@@ -1,24 +1,22 @@
+<h2> Hi, I'm Minji! <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50"></h2>
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&color=262626&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minji!;" />
-</h1>
- <div  align="left">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minji-code&theme=nord_bright">
- </div>
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=laravel,git,js,html,css,react,git,php,python,linux,aws,cpp,java,mysql,python" /><br>
-</div>
+```javascript
+const minji = {
+    pronouns: "She" | "Her",
+    location: "Atlanta, GA", 
+    code: ["Javascript", "Python", "PHP", "Java"],
+    databases: ["MySql", "sqlite"],
+    devOps: ["AWS", "git", "Linux"],
+    misc: ["Laravel", "React"],
+    askMeAbout: ["web dev", "dogs", "cats"],
+    currentFocus: "No Focus point at this time",
+};
 
-<h1 align="left"></h1>
-<div align="left">
-  <a href="https://www.linkedin.com/in/minji-k-suh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="minji.k.suh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="https://minji-code.github.io/HelloMinji/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+```
+
+
+    
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fminji-k-suh%2F)
+![Static Badge](https://img.shields.io/badge/see_my-portfolio-sage?style=flat&link=https%3A%2F%2Fgithub.com%2Fminji-code%2FHelloMinji)
+

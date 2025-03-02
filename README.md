@@ -4,11 +4,11 @@
 ```javascript
 const minji = {
     pronouns: "She" | "Her",
-    location: "Atlanta, GA", 
-    code: ["Javascript", "Python", "PHP", "Java"],
-    databases: ["MySql", "sqlite"],
-    devOps: ["AWS", "git", "Linux"],
-    misc: ["Laravel", "React"],
+    location: "Atlanta, GA",
+    frontend: ["React", "Next.js", "Tailwind CSS", "Typescript", "JavaScript"],
+    backend: ["Python", "Laravel", "PHP", "Node.js","Express.js", "API", "C++"],
+    databases: ["MySql", "PostgreSQL", "sqlite"],
+    tools:["Git", "Linux", "AWS"]
     askMeAbout: ["web dev", "dogs", "cats"],
     currentFocus: "No Focus point at this time",
 };

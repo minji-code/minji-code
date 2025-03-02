@@ -8,7 +8,7 @@ const minji = {
     frontend: ["React", "Next.js", "Tailwind CSS", "Typescript", "JavaScript"],
     backend: ["Python", "Laravel", "PHP", "Node.js","Express.js", "API", "C++"],
     databases: ["MySql", "PostgreSQL", "sqlite"],
-    tools:["Git", "Linux", "AWS"]
+    tools:["Git", "Linux", "AWS"],
     askMeAbout: ["web dev", "dogs", "cats"],
     currentFocus: "No Focus point at this time",
 };
